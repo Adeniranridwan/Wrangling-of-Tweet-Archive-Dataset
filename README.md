@@ -28,7 +28,7 @@ image prediction that was downloaded with request method
 
 These datasets above needed thorough cleaning. The datasets was said to have both quality and tidiness issues after being assessed manually and programmatically. some of the quality and tidiness issues solved are:
 
-#Quality:
+# Quality:
 
 twitter_achieved_enhanced
 
