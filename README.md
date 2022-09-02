@@ -101,6 +101,6 @@ json file: scraped from twitter
 - Access to twitter API
 
 # Credit:
-Google
-Stackover
+Google,
+Stackoverflow
 
